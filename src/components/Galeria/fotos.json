@@ -1,0 +1,99 @@
+
+[
+  {
+    "titulo": "Tartaruga Marinha",
+    "creditos": "Richard Segal (Pexels)",
+    "imagem": "https://images.pexels.com/photos/1618606/pexels-photo-1618606.jpeg",
+    "id": "1",
+    "tag": "Tartarugas",
+    "favorito": false
+  },
+  {
+    "titulo": "Golfinho",
+    "creditos": "Guillaume Hankenne (Pexels)",
+    "imagem": "https://images.pexels.com/photos/1986374/pexels-photo-1986374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "id": "2",
+    "tag": "Mamiferos",
+    "favorito": false
+  },
+  {
+    "titulo": "Peixe Palhaço",
+    "creditos": "Tom Fisk (Pexels)",
+    "imagem": "https://images.pexels.com/photos/1125979/pexels-photo-1125979.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "id": "3",
+    "tag": "Peixes",
+    "favorito": false
+  },
+  {
+    "titulo": "Baleia Azul",
+    "creditos": "Elianne Dipp (Pexels)",
+    "imagem": "https://images.pexels.com/photos/4666751/pexels-photo-4666751.jpeg",
+    "id": "4",
+    "tag": "Mamiferos",
+    "favorito": false
+  },
+  {
+    "titulo": "Mini Ecossistema",
+    "creditos": "Neha Pandey (Pexels)",
+    "imagem": "https://images.pexels.com/photos/2446439/pexels-photo-2446439.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "id": "5",
+    "tag": "Peixes",
+    "favorito": false
+  },
+  {
+    "titulo": "Água Viva Vermelha",
+    "creditos": "Blue Ox Studio (Pexels)",
+    "imagem": "https://images.pexels.com/photos/982229/pexels-photo-982229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "id": "6",
+    "tag": "Outros",
+    "favorito": false
+  },
+  {
+    "titulo": "Axolote",
+    "creditos": "Artem Lysenko (Pexels)",
+    "imagem": "https://images.pexels.com/photos/2168831/pexels-photo-2168831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "id": "7",
+    "tag": "Outros",
+    "favorito": false
+  },
+  {
+    "titulo": "Tubarão Branco",
+    "creditos": "George Probst (flickr)",
+    "imagem": "/assets/imagens/galeria/White-Shark.png",
+    "id": "8",
+    "tag": "Peixes",
+    "favorito": false
+  },
+  {
+    "titulo": "Orca",
+    "creditos": "Andre Estevez (Pexels)",
+    "imagem": "https://images.pexels.com/photos/3325908/pexels-photo-3325908.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "id": "9",
+    "tag": "Mamiferos",
+    "favorito": false
+  },
+  {
+    "titulo": "Polvo",
+    "creditos": "Pia B (Pexels)",
+    "imagem": "https://images.pexels.com/photos/3046629/pexels-photo-3046629.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "id": "10",
+    "tag": "Outros",
+    "favorito": false
+  },
+  {
+    "titulo": "Crocodilo de Água Salgada",
+    "creditos": "Pia B (Pexels)",
+    "imagem": "https://images.pexels.com/photos/51345/alligator-american-alligator-gator-amphibian-51345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "id": "11",
+    "tag": "Outros",
+    "favorito": false
+  },
+  {
+    "titulo": "Golfinho",
+    "creditos": "Pixabay (Pexels)",
+    "imagem": "https://images.pexels.com/photos/162079/dolphin-sea-marine-mammals-wise-162079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "id": "12",
+    "tag": "Mamiferos",
+    "favorito": false
+  }
+]
